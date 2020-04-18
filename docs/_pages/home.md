@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /
 title: ""
 excerpt: "My Curriculum Vitae"
