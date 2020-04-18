@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Haodong Zhang"
-  avatar           : "/docs/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "*Undergraduate in Control Science and Engineering @ Zhejiang University*"
   location         : # "Hangzhou, China"
   email            : # "aqz@zju.edu.cn"
@@ -170,7 +170,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
+  # - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
