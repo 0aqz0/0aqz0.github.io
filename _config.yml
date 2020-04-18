@@ -95,16 +95,16 @@ analytics:
 author:
   name             : "Haodong Zhang"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an undergraduate of Zhejiang University, mainly interested in robotics"
-  location         : "Hangzhou, China"
-  email            : "aqz@zju.edu.cn"
+  bio              : "*I am an undergraduate of Zhejiang University, mainly interested in robotics*"
+  location         : # "Hangzhou, China"
+  email            : # "aqz@zju.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:aqz@zju.edu.cn
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://0aqz0.github.io/"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://0aqz0.github.io/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
