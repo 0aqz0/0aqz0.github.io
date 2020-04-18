@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 layout: single
+classes: wide
 author_profile: true
 last_modified_at: 2020-04-18
 toc: false
