@@ -2,6 +2,7 @@
 title: "ABOUT ME"
 layout: single
 author_profile: true
+classes: wide
 last_modified_at: 2020-04-18
 toc: false
 ---
