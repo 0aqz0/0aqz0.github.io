@@ -1,7 +1,6 @@
 ---
-title: "About Me"
+title: "ABOUT ME"
 layout: single
-classes: wide
 author_profile: true
 last_modified_at: 2020-04-18
 toc: false
@@ -13,15 +12,10 @@ I am an undergraduate of Zhejiang University, mainly interested in robotics.
 
 ## Projects
 
-**Sign Language Recognition, 2019.9~Present**
+**Sign Language Recognition, 2019.9~2020.6**
 
-- Use CNN+LSTM, 3D CNN, GCN and their variants to achieve isolated sign language recognition [code](https://github.com/0aqz0/SLR)
+- Achieve isolated & continuous sign language recognition using CNN+LSTM/3D CNN/GCN/Encoder-Decoder [code](https://github.com/0aqz0/SLR)
 - My graduation project
-
-**Vision-assisted Robotic Arm Grabbing & AGV Detection and Positioning for Cooperation with Robotic Arm, ABB, 2019.8**
-
-- Develop visual algorithms to assist robotic arm
-- My first internship
 
 **Modularized Implementation of Robotics Algorithms, 2019.8**
 
@@ -50,6 +44,15 @@ I am an undergraduate of Zhejiang University, mainly interested in robotics.
 
 - World Robotic Sailing Championship 2018, Southampton, Britain: 3rd Place
 - Core member of the software group, mainly responsible for the path planning of the sailing robot
+
+---
+
+## Intership
+
+**ABB (China) Limited Shanghai Branch, 2019.8**
+
+- Vision-assisted Robotic Arm Grabbing & AGV Detection and Positioning for Cooperation with Robotic Arm
+- My first internship
 
 ---
 
