@@ -16,27 +16,34 @@ I am a PhD student at Zhejiang University, focusing on **human-robot motion imit
 **Kinematic motion retargeting via neural latent optimization for learning sign language**
 
 <span style="color:grey;font-weight:100;font-size:20px">
-    **Haodong Zhang**, Weijie Li, Jiangpin Liu, Zexi Chen, Yuxiang Cui, Yue Wang, Rong Xiong
-    IEEE Robotics and Automation Letters (RAL), 2022
+**Haodong Zhang**, Weijie Li, Jiangpin Liu, Zexi Chen, Yuxiang Cui, Yue Wang, Rong Xiong
+   
+IEEE Robotics and Automation Letters (RAL), 2022
 </span>
 
 **Learning to Fill the Seam by Vision: Sub-millimeter Peg-in-hole on Unseen Shapes in Real World**
 
+<span style="color:grey;font-weight:100;font-size:20px">
 Liang Xie, Hongxiang Yu, Yinghao Zhao, **Haodong Zhang**, Zhongxiang Zhou, Minhang Wang, Yue Wang, Rong Xiong
 
 IEEE International Conference on Robotics and Automation (ICRA), 2022
+</span>
 
 **Learning world transition model for socially aware robot navigation**
 
+<span style="color:grey;font-weight:100;font-size:20px">
 Yuxiang Cui, **Haodong Zhang**, Yue Wang, Rong Xiong
 
 IEEE International Conference on Robotics and Automation (ICRA), 2021
+</span>
 
 **Champion team paper: Dynamic passing-shooting algorithm of the RoboCup soccer SSL 2019 champion**
 
+<span style="color:grey;font-weight:100;font-size:20px">
 Zexi Chen, **Haodong Zhang**, Dashun Guo, Shenhan Jia, Xianze Fang, Zheyuan Huang, Yunkai Wang, Peng Hu, Licheng Wen, Lingyun Chen, Zhengxi Li, Rong Xiong
 
 Robot World Cup, 2019
+</span>
 
 ---
 
