@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Haodong Zhang"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "*Phd candidate in Control Science and Engineering @ Zhejiang University*"
+  bio              : "*PhD candidate in Control Science and Engineering @ Zhejiang University*"
   location         : # "Hangzhou, China"
   email            : # "aqz@zju.edu.cn"
   links:
