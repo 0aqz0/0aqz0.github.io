@@ -50,7 +50,7 @@ Robot World Cup, 2019
 - Design a novel sign language motion retargeting algorithm [code](https://github.com/0aqz0/neural-retargeting)
 - Publish one SCI journal as the first author [paper](https://ieeexplore.ieee.org/document/9714016)
 
-### 5G-based Autonomous Collaboration for Heterogeneous Multi-Robots in Dynamic Open Environments, 2020.12~Present**
+**5G-based Autonomous Collaboration for Heterogeneous Multi-Robots in Dynamic Open Environments, 2020.12~Present**
 
 - Human-computer interaction design, including gesture interaction control, UI design, etc.
 
@@ -58,12 +58,6 @@ Robot World Cup, 2019
 
 - Achieve isolated & continuous sign language recognition using CNN+LSTM/3D CNN/GCN/Encoder-Decoder [code](https://github.com/0aqz0/SLR)
 - My undergraduate graduation project
-
-**Modularized Implementation of Robotics Algorithms, 2019.8**
-
-- Use Python to write the basic components required for path planning algorithms (algorithms, maps, obstacles) [code](https://github.com/0aqz0/Robotics-Notebook)
-- Implement some basic path planning algorithms A *, RRT, RRT *, etc
-- Use OpenGL to render the results of path planning in real time
 
 **RoboCup Small Size League Team ZJUNlict, Zhejiang University, 2018.9~2020.12**
 
@@ -76,11 +70,6 @@ Robot World Cup, 2019
 
 - Core member of the strategy group, based on OpenAI gym design robot reinforcement learning environment [code](https://github.com/0aqz0/rm-gym)
 - Implement ROS package of robot state machine [code](https://github.com/0aqz0/state_machine)
-
-**Mobile Robot with Four Mecanum Wheels Based on ROS, 2018.9**
-
-- Use the Raspberry Pi as the robot main control board to achieve basic motion control [code](https://github.com/0aqz0/smart-car)
-- Configure and use the Xbox One wireless controller to control the robot
 
 **World Robotic Sailing Championship Team ZMART, Zhejiang University, 2018.6~2018.8**
 
@@ -105,6 +94,3 @@ Robot World Cup, 2019
 - Scholarship for Excellence in Research and Innovation, CKC Honors College, Zhejiang University, 2020
 - Scholarship for Innovation, CKC Honors College, Zhejiang University, 2019
 - Undergraduate Special Scholarship, Zhejiang University, 2019
-
-
-
