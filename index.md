@@ -15,9 +15,10 @@ I am a PhD student at Zhejiang University, focusing on **human-robot motion imit
 
 **Kinematic motion retargeting via neural latent optimization for learning sign language**
 
-**Haodong Zhang**, Weijie Li, Jiangpin Liu, Zexi Chen, Yuxiang Cui, Yue Wang, Rong Xiong
-
-IEEE Robotics and Automation Letters (RAL), 2022
+<span style="color:grey;font-weight:100;font-size:20px">
+    **Haodong Zhang**, Weijie Li, Jiangpin Liu, Zexi Chen, Yuxiang Cui, Yue Wang, Rong Xiong
+    IEEE Robotics and Automation Letters (RAL), 2022
+</span>
 
 **Learning to Fill the Seam by Vision: Sub-millimeter Peg-in-hole on Unseen Shapes in Real World**
 
