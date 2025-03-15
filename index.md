@@ -11,14 +11,93 @@ I am a PhD student at Zhejiang University, focusing on **human-robot motion imit
 
 ---
 
-## Publications
+## 📝 Publications
 
-**Kinematic motion retargeting via neural latent optimization for learning sign language**
+<td style="padding:16px;width:20%;vertical-align:middle">
+<div class="one">
+    <div class="two" id='r2r_image'><video  width=100% muted autoplay loop>
+    <source src="assets\images\IROS25_2466_VI_i.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video></div>
+    <img src='assets\images\simulation-experiment-CN.png' width=50%>
+</div>
+<script type="text/javascript">
+    function r2r_start() {
+    document.getElementById('r2r_image').style.opacity = "1";
+    }
 
-<span style="color:grey;font-weight:100;font-size:20px">
-**Haodong Zhang**, Weijie Li, Jiangpin Liu, Zexi Chen, Yuxiang Cui, Yue Wang, Rong Xiong  
-IEEE Robotics and Automation Letters (RAL), 2022
-</span>
+    function r2r_stop() {
+    document.getElementById('r2r_image').style.opacity = "0";
+    }
+    r2r_stop()
+</script>
+</td>
+<td style="padding:8px;width:80%;vertical-align:middle">
+<a href="https://relight-to-reconstruct.github.io/">
+    <span class="papertitle">Kinematic motion retargeting via neural latent optimization for learning sign language</span>
+</a>
+<br>
+<a href="https://0aqz0.github.io/">Haodong Zhang</a>,
+    <strong>Weijie Li</strong>, 
+    <strong>Jiangpin Liu</strong>, 
+    <strong>Zexi Chen</strong>, 
+    <strong>Yue Wang</strong>, 
+    <strong>Rong Xiong</strong>
+<br>
+<em>IEEE Robotics and Automation Letters (RAL)</em>, 2022
+<br>
+<a href="https://relight-to-reconstruct.github.io/">project page</a>
+/
+<a href="https://arxiv.org/abs/2412.15211">arXiv</a>
+<p></p>
+<p>
+        Latent optimization utilizes a decoder to establish a mapping between the latent space and the robot motion space. Afterward, the retargeting results that satisfy robot constraints can be obtained by searching for the optimal latent vector.
+</p>
+</td>
+
+<td style="padding:16px;width:20%;vertical-align:middle">
+<div class="one">
+    <div class="two" id='r2r_image'><video  width=100% muted autoplay loop>
+    <source src="assets\images\IROS25_2466_VI_i.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video></div>
+    <img src='assets\images\simulation-experiment-CN.png' width=50%>
+</div>
+<script type="text/javascript">
+    function r2r_start() {
+    document.getElementById('r2r_image').style.opacity = "1";
+    }
+
+    function r2r_stop() {
+    document.getElementById('r2r_image').style.opacity = "0";
+    }
+    r2r_stop()
+</script>
+</td>
+<td style="padding:8px;width:80%;vertical-align:middle">
+<a href="https://relight-to-reconstruct.github.io/">
+    <span class="papertitle">Kinematic motion retargeting via neural latent optimization for learning sign language</span>
+</a>
+<br>
+<a href="https://0aqz0.github.io/">Haodong Zhang</a>,
+    <strong>Weijie Li</strong>, 
+    <strong>Jiangpin Liu</strong>, 
+    <strong>Zexi Chen</strong>, 
+    <strong>Yue Wang</strong>, 
+    <strong>Rong Xiong</strong>
+<br>
+<em>IEEE Robotics and Automation Letters (RAL)</em>, 2022
+<br>
+<a href="https://relight-to-reconstruct.github.io/">project page</a>
+/
+<a href="https://arxiv.org/abs/2412.15211">arXiv</a>
+<p></p>
+<p>
+        Latent optimization utilizes a decoder to establish a mapping between the latent space and the robot motion space. Afterward, the retargeting results that satisfy robot constraints can be obtained by searching for the optimal latent vector.
+</p>
+</td>
+
+
 
 **Learning to Fill the Seam by Vision: Sub-millimeter Peg-in-hole on Unseen Shapes in Real World**
 
