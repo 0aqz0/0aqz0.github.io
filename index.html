@@ -22,7 +22,7 @@
                 <p class="name" style="text-align: center;">
                   Haodong Zhang
                 </p>
-                <p>I am a PhD student at Zhejiang University, focusing on **human-robot motion imitation learning**, under the supervision of Professor Rong Xiong and Yue Wang. I received the B.S degree from the Department of Control Science and Engineering, Zhejiang University, Hangzhou, China, in 2020. My latest research interests include **robot skill learning** and **transfer learning**.
+                <p>I am a PhD student at Zhejiang University, focusing on motion imitation learning, under the supervision of Professor Rong Xiong and Yue Wang. I received the B.S degree from the Department of Control Science and Engineering, Zhejiang University, Hangzhou, China, in 2020.
                 </p>
                 <!-- <p>
                   At Google I've worked on <a href="https://www.google.com/glass/start/">Glass</a>,  <a href="https://ai.googleblog.com/2014/04/lens-blur-in-new-google-camera-app.html">Lens Blur</a>, <a href="https://ai.googleblog.com/2014/10/hdr-low-light-and-high-dynamic-range.html">HDR+</a>, <a href="https://blog.google/products/google-ar-vr/introducing-next-generation-jump/">VR</a>, <a href="https://ai.googleblog.com/2017/10/portrait-mode-on-pixel-2-and-pixel-2-xl.html">Portrait Mode</a>, <a href="https://ai.googleblog.com/2020/12/portrait-light-enhancing-portrait.html">Portrait Light</a>, and <a href="https://blog.google/products/maps/three-maps-updates-io-2022/">Maps</a>. I did my PhD at <a href="http://www.eecs.berkeley.edu/">UC Berkeley</a>, where I was advised by <a href="http://www.cs.berkeley.edu/~malik/">Jitendra Malik</a>. I've received the <a href="https://www.thecvf.com/?page_id=413#YRA">PAMI Young Researcher Award</a>.
@@ -47,7 +47,8 @@
               <td style="padding:16px;width:100%;vertical-align:middle">
                 <h2>Research</h2>
                 <p>
-                  I'm interested in computer vision, deep learning, generative AI, and image processing. Most of my research is about inferring the physical world (shape, motion, color, light, etc) from images, usually with radiance fields. Some papers are <span class="highlight">highlighted</span>.
+                  My latest research interests include embodied AI and imitation learning.
+                  <!-- I'm interested in computer vision, deep learning, generative AI, and image processing. Most of my research is about inferring the physical world (shape, motion, color, light, etc) from images, usually with radiance fields. Some papers are <span class="highlight">highlighted</span>. -->
                 </p>
               </td>
             </tr>
@@ -55,6 +56,55 @@
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 
+
+
+    <tr onmouseout="power_stop()" onmouseover="power_start()" bgcolor="#ffffd0">
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <div class="one">
+          <div class="two" id='power_image'><video  width=100% height=100% muted autoplay loop>
+          <source src="images/power.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video></div>
+          <img src='images/power.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function power_start() {
+            document.getElementById('power_image').style.opacity = "1";
+          }
+
+          function power_stop() {
+            document.getElementById('power_image').style.opacity = "0";
+          }
+          power_stop()
+        </script>
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://x.com/jon_barron/status/1891918200931061996">
+			<span class="papertitle">Semantics-aware motion retargeting with vision-language models
+</span>
+        </a>
+        <br>
+        <a href="https://0aqz0.github.io/">Haodong Zhang</a>,
+        <strong>Zhike Chen</strong>, 
+        <strong>Haocheng Xu</strong>, 
+        <strong>Lei Hao</strong>, 
+        <strong>Xiaofei Wu</strong>, 
+        <strong>Songcen Xu</strong>, 
+        <strong>Zhensong Zhang</strong>, 
+        <strong>Yue Wang</strong>, 
+        <strong>Rong Xiong</strong>
+        <br>
+        <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2024
+        <br>
+        <a href="https://sites.google.com/view/smtnet">project page</a>/
+        <a href="https://arxiv.org/abs/2312.01964">arXiv</a>/
+        <a href="https://github.com/chenzhike110/Semantic-Motion-Retargeting">code</a>
+        <p></p>
+        <p>
+          We introduce the incorporation of robust, state-of-the-art vision-language models to provide semantic guidance to the motion retargeting network.
+        </p>
+      </td>
+    </tr>
 
 
     <tr onmouseout="power_stop()" onmouseover="power_start()" bgcolor="#ffffd0">
@@ -100,7 +150,6 @@
         </p>
       </td>
     </tr>
-
 
     <!-- <tr onmouseout="r2r_stop()" onmouseover="r2r_start()">
       <td style="padding:16px;width:20%;vertical-align:middle">
