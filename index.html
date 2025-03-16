@@ -38,7 +38,7 @@
                 </p>
               </td>
               <td style="padding:2.5%;width:37%;max-width:37%">
-                <a href="images/JonBarron.jpg"><img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="profile photo" src="images/JonBarron.jpg" class="hoverZoomLink"></a>
+                <a href="images/Haodong.jpg"><img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="profile photo" src="images/JonBarron.jpg" class="hoverZoomLink"></a>
               </td>
             </tr>
           </tbody></table>
@@ -200,6 +200,50 @@
       </td>
     </tr>
 
+
+
+    <tr onmouseout="r2r_stop()" onmouseover="r2r_start()">
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <div class="one">
+          <div class="two" id='r2r_image'><video  width=100% muted autoplay loop>
+          <source src="images/r2r.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video></div>
+          <img src='images/r2r.jpg' width=100%>
+        </div>
+        <script type="text/javascript">
+          function r2r_start() {
+            document.getElementById('r2r_image').style.opacity = "1";
+          }
+
+          function r2r_stop() {
+            document.getElementById('r2r_image').style.opacity = "0";
+          }
+          r2r_stop()
+        </script>
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://relight-to-reconstruct.github.io/">
+          <span class="papertitle">Learning world transition model for socially aware robot navigation</span>
+        </a>
+        <br>
+        <strong>Yuxiang Cui</strong>, 
+        <a href="https://0aqz0.github.io/">Haodong Zhang</a>,
+        <strong>Yue Wang</strong>, 
+        <strong>Rong Xiong</strong>, 
+        <br>
+        <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2021
+        <br>
+        <a href="https://arxiv.org/abs/2011.03922">arXiv</a>
+        <p></p>
+        <p>
+				Images taken under extreme illumination variation can be made consistent with diffusion, and this enables high-quality 3D reconstruction.
+        </p>
+      </td>
+    </tr>
+
+
+    
     <!-- <tr onmouseout="r2r_stop()" onmouseover="r2r_start()">
       <td style="padding:16px;width:20%;vertical-align:middle">
         <div class="one">
@@ -4360,7 +4404,7 @@ for Topologically Varying Neural Radiance Fields</span>
           </tbody></table>
 
           
-					<table style="width:100%; margin:0 auto; border:0; border-spacing:0; padding:16px;"><tbody>
+					<!-- <table style="width:100%; margin:0 auto; border:0; border-spacing:0; padding:16px;"><tbody>
             <tr>
               <td>
                 <h2>Miscellanea</h2>
@@ -4460,7 +4504,7 @@ for Topologically Varying Neural Radiance Fields</span>
                 </p>
               </td>
             </tr>
-          </tbody></table>
+          </tbody></table> -->
         </td>
       </tr>
     </table>
