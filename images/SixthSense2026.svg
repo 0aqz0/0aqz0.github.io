@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102033"/>
+      <stop offset="1" stop-color="#23506d"/>
+    </linearGradient>
+    <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#79d6ff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#79d6ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="320" height="200" rx="18" fill="url(#bg)"/>
+  <circle cx="160" cy="95" r="82" fill="url(#pulse)" opacity="0.45"/>
+  <g fill="none" stroke="#dff7ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="160" cy="48" r="16"/>
+    <path d="M160 65v45"/>
+    <path d="M124 87h72"/>
+    <path d="M160 110l-33 45"/>
+    <path d="M160 110l33 45"/>
+  </g>
+  <g stroke="#ffcf6e" stroke-width="5" stroke-linecap="round">
+    <path d="M72 57l35 22"/>
+    <path d="M248 57l-35 22"/>
+    <path d="M70 133l36-22"/>
+    <path d="M250 133l-36-22"/>
+  </g>
+  <g fill="#ffcf6e">
+    <circle cx="70" cy="57" r="8"/>
+    <circle cx="250" cy="57" r="8"/>
+    <circle cx="70" cy="133" r="8"/>
+    <circle cx="250" cy="133" r="8"/>
+  </g>
+  <text x="160" y="176" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">SixthSense</text>
+  <text x="160" y="192" text-anchor="middle" fill="#bfeeff" font-family="Arial, Helvetica, sans-serif" font-size="12">Whole-Body Wrench Estimation</text>
+</svg>
